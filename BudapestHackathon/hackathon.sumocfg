@@ -1,0 +1,11 @@
+<configuration>
+<input>
+<net-file value="budapest.net.xml"/>
+<route-files value="budapest.rou.xml"/>
+<additional-files value="parking_parkingLot.add.xml"/>
+</input>
+<time>
+<begin value="0"/>
+<end value="2000"/>
+</time>
+</configuration>
